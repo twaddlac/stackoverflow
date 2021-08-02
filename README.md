@@ -1,4 +1,4 @@
-
+By: Alan Twaddle
 ### Table of Contents
 
 1. [Installation](#installation)
